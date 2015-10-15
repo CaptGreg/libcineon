@@ -1,0 +1,1 @@
+Project has been migrated to GitHub: https://github.com/inequation/libcineon
